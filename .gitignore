@@ -1,0 +1,19 @@
+# Node.js
+/backend/node_modules/
+
+# React build output
+/frontend/node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors (you can add others as needed)
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+
+# Environment files (for example, .env files, if used for secrets or settings)
+.env
